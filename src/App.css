@@ -1,0 +1,103 @@
+.App2 {
+  margin-left: 5px;
+}
+.App3{
+  text-align: center;
+}
+
+.header{
+  margin-left: 15px;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+.shop1{
+  margin-top: 4%;
+}
+
+
+  
+.shops{
+  color: rgb(22, 12, 12);
+
+}
+
+#basic-nav-dropdown{
+  text-emphasis-color: dark;
+}
+.float{
+  float: right;
+}
+.cart{
+  height: 40px;
+  width: 120px;
+}
+.cart1{
+  height: 1000%;
+  width:100%;
+}
+.cards{
+  float: right;
+}
+.star{
+  color: orange;
+}
+.btn-outline-dark {
+  padding: 0.5em 1em;
+  color: #212529;
+  border-color: #212529;
+  text-align: center;
+  align-items: right;
+}
+
+
+.foot{
+  padding: 3em 0em;
+  background-color: #212529;
+  color: white;
+}
+.bg-dark{
+  top: 0.5rem;
+    right: 0.5rem
+}
+.text-dark{
+  margin-left: 2px;
+}
+.d-flex{
+padding: 0;
+display: flex;
+}
+
+
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
